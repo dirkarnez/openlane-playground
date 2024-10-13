@@ -1,0 +1,7 @@
+{
+    "DESIGN_NAME": "my_design",
+    "VERILOG_FILES": "dir::inverter.v",
+    "CLOCK_PORT": "clk",
+    "CLOCK_PERIOD": 10.0,
+    "FP_PDN_MULTILAYER": true
+}
