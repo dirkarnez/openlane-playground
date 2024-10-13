@@ -1,6 +1,7 @@
 openlane-playground
 ===================
-https://github.com/chipsalliance/silicon-notebooks/blob/main/digital-inverter-openlane.ipynb
+[chipsalliance/silicon-notebooks](https://github.com/chipsalliance/silicon-notebooks)
+- https://github.com/chipsalliance/silicon-notebooks/blob/main/digital-inverter-openlane.ipynb
 
 ### Tutorials
 - [Windows 10+ - OpenLane Documentation](https://openlane.readthedocs.io/en/latest/getting_started/installation/installation_win.html)
